@@ -2,5 +2,5 @@
 
 I do frontend development and web scraping.
 
-![HTML5](https://github.com/maksimkaJCHK/maksimkaJCHK/img/html-5.svg)
-![JS](https://github.com/maksimkaJCHK/maksimkaJCHK/img/js.svg)
+![HTML5](https://github.com/maksimkaJCHK/maksimkaJCHK/tree/main/img/html-5.svg)
+![JS](https://github.com/maksimkaJCHK/maksimkaJCHK/tree/main/img/js.svg)
