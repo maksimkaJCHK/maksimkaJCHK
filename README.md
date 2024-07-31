@@ -4,7 +4,7 @@ I am engaged in web interface development and web scraping.
 
 I know the following languages:
 
-<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/js.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/typescript.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/coffeescript.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/python.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/html-5.svg" /><img width="60" height="50px" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/css3.svg" />
+<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/js.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/typescript.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/coffeescript.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/python.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/html-5.svg" /><img width="60" height="55px" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/css3.svg" />
 
 I know the following js frameworks and libraries:
 
@@ -20,7 +20,7 @@ I use the following javaScript module bundlers:
 
 I use the following javaScript templating languages:
 
-<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/templates/twig.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/templates/pug.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/templates/handlebars.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/templates/ejs.svgg" />
+<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/templates/twig.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/templates/pug.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/templates/handlebars.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/templates/ejs.svg" />
 
 I use the following CSS preprocessors:
 
