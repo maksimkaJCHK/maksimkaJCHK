@@ -10,7 +10,7 @@ I know the following js frameworks and libraries:
 
 <img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/react.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/vue.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/jquery.svg" />
 
-I use the following javaScript build systems for front-end web development:
+I use the following javaScript build systems for front-end development:
 
 <img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/bs/gulp.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/bs/grunt.svg" />
 
