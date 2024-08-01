@@ -10,7 +10,7 @@ I know the following javaScript frameworks and libraries:
 
 <img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/react.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/vue.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/jquery.svg" />
 
-I know the following state management and related tools:
+I know the following state management libraries and related tools:
 
 <img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux.svg" /><img width="40" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/pinia.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux-saga.svg" />
 
