@@ -8,7 +8,7 @@ I know the following languages:
 
 I know the following javaScript frameworks and libraries:
 
-<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/pinia.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux-saga.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux.svg" /> redux-toolkit
+<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux.svg" /><img width="40" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/pinia.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux-saga.svg" />
 
 I know the following state management and related tools:
 
