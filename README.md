@@ -6,7 +6,11 @@ I know the following languages:
 
 <img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/js.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/typescript.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/coffeescript.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/lang/python.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/html-5.svg" /><img width="60" height="55px" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/css3.svg" />
 
-I know the following js frameworks and libraries:
+I know the following javaScript frameworks and libraries:
+
+<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/pinia.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux-saga.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux.svg" /> redux-toolkit
+
+I know the following state management and related tools:
 
 <img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/react.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/vue.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/jquery.svg" />
 
