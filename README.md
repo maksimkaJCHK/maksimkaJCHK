@@ -8,11 +8,11 @@ I know the following languages:
 
 I know the following javaScript frameworks and libraries:
 
-<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux.svg" /><img width="40" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/pinia.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux-saga.svg" />
+<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/react.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/vue.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/jquery.svg" />
 
 I know the following state management and related tools:
 
-<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/react.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/vue.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/fr/jquery.svg" />
+<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux.svg" /><img width="40" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/pinia.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux-saga.svg" />
 
 I use the following javaScript build systems for front-end development:
 
