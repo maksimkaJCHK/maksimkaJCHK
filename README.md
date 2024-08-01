@@ -14,6 +14,10 @@ I know the following state management libraries and related tools:
 
 <img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux.svg" /><img width="40" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/pinia.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/state/redux-saga.svg" />
 
+I know the following:
+
+<img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/node-js.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/express.svg" />
+
 I use the following javaScript build systems for front-end development:
 
 <img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/bs/gulp.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/bs/grunt.svg" />
