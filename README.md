@@ -34,3 +34,6 @@ I use the following CSS preprocessors:
 
 <img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/css/sass.svg" /><img width="60" src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/icons/css/less.svg" />
 
+My contributions in the last year
+
+<img src="https://github.com/maksimkaJCHK/maksimkaJCHK/blob/main/img/github-contribution-grid-snake.svg" />
