@@ -1,4 +1,4 @@
-## Hi, my name is Maxim.
+## Hi, my name is Maksim.
 
 I am engaged in web interface development and web scraping.
 
